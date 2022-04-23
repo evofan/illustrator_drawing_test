@@ -2,6 +2,9 @@
 # Test to draw with Adobe Illustrator.
 
 <img src="https://evofan.github.io/illustrator_drawing_test/screenshot/pic_kamo_04_cs6.jpg" width="50%">  
+<img src="https://evofan.github.io/illustrator_drawing_test/screenshot/pic_donut_02.jpg" width="20%">  
+<img src="https://evofan.github.io/illustrator_drawing_test/screenshot/pic_sakura_01.jpg" width="20%">  
+
 
 reference  
 
